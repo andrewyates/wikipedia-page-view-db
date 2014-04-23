@@ -9,7 +9,7 @@ from django.utils.timezone import utc
 
 from orm.models import PagecountURL
 
-headers = {'User-agent': 'wikipedia-page-view-db'}
+headers = {'User-agent': 'https://github.com/andrewyates/wikipedia-page-view-db'}
 
 
 def main():
